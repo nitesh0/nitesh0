@@ -88,11 +88,10 @@
 
 ###
 
-###
-
 <img src="https://raw.githubusercontent.com/nitesh0/nitesh0/output/snake.svg" alt="Snake animation" />
 
 ###
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nitesh0.nitesh0&left_text=Profile%20Views"  />
 </div>
