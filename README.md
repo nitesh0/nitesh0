@@ -107,6 +107,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/nitesh0/nitesh0/output/snake.svg" alt="Snake animation" />
 
 ###
