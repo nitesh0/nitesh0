@@ -88,6 +88,16 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nitesh0.nitesh0&left_text=Profile%20Views"  />
+</div>
+
+###
+
 <h3 align="left">📊 GitHub Stats:</h3>
 
 ###
@@ -101,14 +111,3 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nitesh0.nitesh0&left_text=Profile%20Views"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nitesh0/nitesh0/output/snake.svg" alt="Snake animation" />
-
-###
