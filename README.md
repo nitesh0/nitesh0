@@ -88,12 +88,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nitesh0.nitesh0&left_text=Profile%20Views"  />
-</div>
-
-###
-
 <h3 align="left">📊 GitHub Stats:</h3>
 
 ###
@@ -103,6 +97,12 @@
   <img src="https://streak-stats.demolab.com?user=nitesh0&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Syntax%20Squad" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitesh0&radius=16&theme=github-dark&area=true&order=5&custom_title=Code%20Commit%20Odyssey&title_color=FFFFFF&area_color=FFFFFF&line=008000&color=FFFFFF" height="160" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nitesh0.nitesh0&left_text=Profile%20Views"  />
 </div>
 
 ###
