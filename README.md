@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on:<br>Focusing on optimizing development processes and contributing to scalable, high-performance applications.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Blockchain technology and its underlying concepts.<br><br>💬 Ask me about:<br>JavaScript, React, Nextjs, Python, and any general software development questions.<br><br>⚡ Fun fact:<br>Convert imagination to code.</p>
+<p align="left">🔭 I’m currently working on:<br>Focusing on optimizing development processes and contributing to scalable, high-performance applications.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Devops and its underlying concepts.<br><br>💬 Ask me about:<br>JavaScript, React, Nextjs, Python, and any general software development questions.<br><br>⚡ Fun fact:<br>Convert imagination to code.</p>
 
 ###
 
